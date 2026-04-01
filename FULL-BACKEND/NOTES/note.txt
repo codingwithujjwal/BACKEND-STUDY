@@ -1,0 +1,4 @@
+GET=> when we fetch data form server.
+POST=> when we send data to server.
+PATCH=> when we update existing server data.
+DELETE=> when we delate existing server data
