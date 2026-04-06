@@ -1,5 +1,5 @@
 {
-  "name": "03_aunthcation",
+  "name": "03-aunthication-implementation",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,8 +11,9 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "dotenv": "^17.4.0",
+    "dotenv": "^17.4.1",
     "express": "^5.2.1",
-    "mongoose": "^9.3.3"
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.4.1"
   }
 }
