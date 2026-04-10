@@ -3,6 +3,12 @@ const authControllers=require("../controllers/auth.controller")
 
 const router = express.Router()
 
-router.post("/register", authControllers.registerUser )
+router.post("/register", authControllers.registerUser)
+
+
+
+
+
+
 
 module.exports = router;
